@@ -1,4 +1,4 @@
-# Hi, I'm Ajinkya Desai! 👋
+# Hi, I'm Ajinkya Desai 👋
 
 ![image](https://github.com/user-attachments/assets/a54dc494-ec85-47a8-a9b9-51c5bcab49a8)
 
@@ -8,8 +8,7 @@
 I'm a passionate Product Manager and Data Scientist with experience in strategic planning, product analytics, and data visualization. Currently pursuing my Master of Science in Information Systems at Santa Clara University, I am eager to collaborate on projects that drive innovation and impact.
 
 - 🎓 **Education:** Master's in Information Systems @ Santa Clara University (Expected June 2025)
-- 🔭 **Current Focus:** Sustainable energy solutions and advanced product management
-- 🌱 **Learning:** Advanced data science techniques, Tableau, and machine learning frameworks
+- 🔭 **Current Focus:** Advanced data science techniques, Tableau, and machine learning frameworks and advanced product management
 - 🎯 **Goals:** Driving product innovation and creating impactful user experiences
 
 ## 🛠 Skills & Tools
