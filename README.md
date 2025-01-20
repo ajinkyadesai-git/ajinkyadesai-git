@@ -1,5 +1,7 @@
 # Hi, I'm Ajinkya Desai! 👋
 
+![Ajinkya Desai Banner](https://github.com/ajinkyadesai-git/banner-image.png)
+
 ## 🚀 About Me
 I'm a passionate Product Manager and Data Scientist with experience in strategic planning, product analytics, and data visualization. Currently pursuing my Master of Science in Information Systems at Santa Clara University, I am eager to collaborate on projects that drive innovation and impact.
 
