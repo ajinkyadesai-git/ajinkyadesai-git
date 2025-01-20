@@ -12,7 +12,7 @@ I'm a Product Manager with experience in strategic planning, product analytics, 
 - 🎯 **Goals:** Driving product innovation and creating impactful user experiences
 
 ## 🛠 Skills & Tools
-- **Skills:** Product Management, Market Research, Agile, Data Mining, Customer Value, Statistics, Data Visualization
+- **Skills:** Product Management, Market Research, CRM, Agile, Data Mining, Customer Value, Statistics, Data Visualization
 - **Tools & Languages:** Python, JavaScript, Java, Power BI, Tableau, SQL, GCP, Jupyter Notebook, Spreadsheets, Jira, Asana
 
 ## 🔗 Connect with Me
