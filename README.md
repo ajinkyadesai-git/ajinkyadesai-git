@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I'm a Product Manager and Data Scientist with experience in strategic planning, product analytics, and data visualization. 
+I'm a Product Manager with experience in strategic planning, product analytics, and data visualization. 
 
 - 🎓 **Education:** Master's in Information Systems @ Santa Clara University (Expected June 2025)
 - 🔭 **Current Focus:** Advanced data science techniques, Tableau, and machine learning frameworks and advanced product management
