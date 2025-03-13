@@ -1,6 +1,7 @@
 # Hi, I'm Ajinkya Desai 👋
 
-![Uploading dp1.jpg…]()
+![dp1](https://github.com/user-attachments/assets/d708aa0a-7be5-42b7-be41-0f21a3378a70)
+
 
 
 
