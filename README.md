@@ -16,7 +16,7 @@ I'm a Product Manager with experience in strategic planning, product analytics, 
 - **Tools & Languages:** Python, JavaScript, Java, Power BI, Tableau, SQL, GCP, Jupyter Notebook, Spreadsheets, Jira, Asana
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajinkyadesai11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajinkyadesai7)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajinkyadesai-git)
 
 ## 🏆 Achievements
