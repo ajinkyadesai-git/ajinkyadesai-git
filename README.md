@@ -8,7 +8,7 @@
 I'm a Product Manager with experience in strategic planning, product analytics, and data visualization. 
 
 - 🎓 **Education:** Master's in Information Systems @ Santa Clara University (Expected June 2025)
-- 🔭 **Current Focus:** Advanced data science techniques, Tableau, and machine learning frameworks and advanced product management
+- 🔭 **Current Focus:** Applied data science techniques, Tableau, and machine learning frameworks and AI product management
 - 🎯 **Goals:** Driving product innovation and creating impactful user experiences
 
 ## 🛠 Skills & Tools
