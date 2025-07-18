@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I'm a Business Intelligence Analyst | Product Manager with skills in business intelligence, product analytics, and data visualization. 
+I'm a Product Manager with skills in business intelligence, product analytics, and data visualization. 
 
 - 🎓 **Education:** Master's in Information Systems @ Santa Clara University (Expected June 2025)
 - 🔭 **Current Focus:** Applied data science techniques, Tableau, and machine learning frameworks and AI product management
