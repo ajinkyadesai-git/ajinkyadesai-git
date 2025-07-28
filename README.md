@@ -5,9 +5,9 @@
 
 
 ## 🚀 About Me
-I'm a Product Manager with skills in business intelligence, product analytics, and data visualization. 
+CSPO and Google-certified Product Analyst with 3+ years of experience using data to drive feature development, user insights, and go-to-market decisions. Delivered 20% faster launches and $1M+ revenue impact via analytics-led strategies. Expert in cross-functional collaboration, KPI frameworks, and lifecycle product insights. Building sustainable, purpose-driven AI tech products. Supports DEI. Athlete. 
 
-- 🎓 **Education:** Master's in Information Systems @ Santa Clara University (Expected June 2025)
+- 🎓 **Education:** Master's in Information Systems @ Santa Clara University (Sept 2023-June 2025)
 - 🔭 **Current Focus:** Applied data science techniques, Tableau, and machine learning frameworks and AI product management
 - 🎯 **Goals:** Driving product innovation and creating impactful user experiences
 
